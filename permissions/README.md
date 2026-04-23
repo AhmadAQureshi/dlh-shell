@@ -5,3 +5,10 @@ Task0-I am betty - Script allows to switch user to "betty". It exactly contains 
 Task1-Who am I - Script allows user to identify the login. With the help of whoami command executed as superuser (sudo), it presents the current login.
 
 Task2-Groups- Script presents the list of groups user is part of. Group Command is used to identify permissions and access for a user.
+
+Task3-New Owner - Script enables user to change the ownership of the file "hello". Using the command chown, the ownership change to betty.
+
+Task4- Empty - Script creates an empty file "hello". Script only contains "#!/bin/bash" and a newline.
+
+Task5- Execute - Script enables the execution of file "hello" by user. Inital permission 644 does not allow execution however the script change it to 755 using chmod.
+  
