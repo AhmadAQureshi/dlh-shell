@@ -25,4 +25,6 @@ Task10- Look in the mirror - A new file "olleh" is created and its permissions t
 Task11- Directories - Script changes the permissions of existing directories without changing the files present in those directories.
 
 Task12- More directories - Script not only create a directory but assigns permission at the same time. Using mkdir -m allows permission setting while its creation.
+
+Task13 - Change group - Script allows changing group of file "hello" to school by using chgrp command.
    
