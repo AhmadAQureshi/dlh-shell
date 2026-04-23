@@ -8,7 +8,7 @@ Task2-Groups- Script presents the list of groups user is part of. Group Command 
 
 Task3-New Owner - Script enables user to change the ownership of the file "hello". Using the command chown, the ownership change to betty.
 
-Task4- Empty - Script creates an empty file "hello". Script only contains "#!/bin/bash" and a newline.
+Task4- Empty - Script creates an empty file "hello". Script contains command touch for file creation.
 
 Task5- Execute - Script enables the execution of file "hello" by user. Inital permission 644 does not allow execution however the script change it to 755 using chmod.
   
