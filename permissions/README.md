@@ -29,4 +29,6 @@ Task12- More directories - Script not only create a directory but assigns permis
 Task13 - Change group - Script allows changing group of file "hello" to school by using chgrp command.
 
 Task14- Owner and group - Script enables changing owner and group for everything present in the directory at once using Â´chmod vincent:sta *.
+
+Task15- Symbolic Links - Script creates a soft link (ln -s) for a file "hello". The softlink are created to enhance efficeny in terms of space,simplify and easy management.
 ´ 
