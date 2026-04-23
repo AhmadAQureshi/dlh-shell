@@ -27,4 +27,6 @@ Task11- Directories - Script changes the permissions of existing directories wit
 Task12- More directories - Script not only create a directory but assigns permission at the same time. Using mkdir -m allows permission setting while its creation.
 
 Task13 - Change group - Script allows changing group of file "hello" to school by using chgrp command.
-   
+
+Task14- Owner and group - Script enables changing owner and group for everything present in the directory at once using Â´chmod vincent:sta *.
+´ 
