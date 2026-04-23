@@ -10,7 +10,7 @@ Task3-New Owner - Script enables user to change the ownership of the file "hello
 
 Task4- Empty - Script creates an empty file "hello". Script contains command touch for file creation.
 
-Task5- Execute - Script enables the execution of file "hello" by user. Inital permission 644 does not allow execution however the script change it to 755 using chmod.
+Task5- Execute - Script enables the execution of file "hello" by user. Inital permission 644 does not allow execution however the script change it to 764 using chmod.
 
 Task6- Multiple Permissions - Script execution changes the permission of file "hello" according to given task. 
 
