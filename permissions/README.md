@@ -20,5 +20,5 @@ Task8- James Bond - Script execution changes the permission of file "hello" acco
 
 Taask9- John Doe - Script execution changes the permission of file "hello" according to given task.
 
-Task10- Look in the mirror - A new file "olleh" is created and its permissions to be same as file "hello",script changes the permission for newly created file.
+Task10- Look in the mirror - A new file "olleh" is created and its permissions to be same as file "hello",script changes the permission for both files at the same time.
    
