@@ -13,4 +13,6 @@ Task4- Empty - Script creates an empty file "hello". Script contains command tou
 Task5- Execute - Script enables the execution of file "hello" by user. Inital permission 644 does not allow execution however the script change it to 755 using chmod.
 
 Task6- Multiple Permissions - Script execution changes the permission of file "hello" according to given task. 
+
+Task7- Everybody - Script execution changes the permission of file "hello" giving execution right across.
   
